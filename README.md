@@ -4,7 +4,6 @@ A Fullstack GraphQL Airbnb Clone with React and React Native.
 
 - Branches are in the order they were coded.
 - Watch how this was made: https://www.youtube.com/playlist?list=PLN3n1USn4xlnfJIQBa6bBjjiECnk6zL6s
-- This builds off the GraphQL Typescript Server I made: https://github.com/benawad/graphql-ts-server-boilerplate.
 - You can see the YouTube Playlist for how that was made here: https://www.youtube.com/playlist?list=PLN3n1USn4xlky9uj6wOhfsPez7KZOqm2V
 - Join the Discord: https://discord.gg/Vehs99V
 
@@ -23,13 +22,13 @@ This project is made up of 5 packages that share code using Yarn Workspaces.
 1. Clone project
 
 ```
-git clone https://github.com/benawad/fullstack-graphql-airbnb-clone.git
+git clone https://github.com/sunriseaigo/React-GraphQL-typescript-server
 ```
 
 2. cd into folder
 
 ```
-cd fullstack-graphql-airbnb-clone
+cd React-GraphQL-typescript-server
 ```
 
 3. Download dependencies
@@ -60,8 +59,6 @@ CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 10. Run `yarn build` in `packages/common`
 
 11. Run `yarn build` in `packages/controller`
-
-12. Get Google Maps API key and put it here https://github.com/benawad/fullstack-graphql-airbnb-clone/blob/master/packages/web/public/index.html#L14 Videos doing that: https://youtu.be/-QQnzDVcTCo and https://youtu.be/xLlIgokKiLc
 
 
 
@@ -96,3 +93,10 @@ CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 6. Website and App view listings
 7. logout
 8. Website chat
+
+
+## Contact
+
+For any questions or inquiries, please reach out to the development team at [sunrise96208@gmail.com]
+
+Enjoy using my project and stay productive!
